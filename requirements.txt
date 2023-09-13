@@ -8,4 +8,4 @@ itsdangerous==0.24
 Jinja2==2.11.3
 MarkupSafe==0.23
 Werkzeug==2.2.3
-WTForms==1.0.5
+WTForms==2.3.0
