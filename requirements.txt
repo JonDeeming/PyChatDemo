@@ -5,7 +5,7 @@ flask-socketio
 Flask-WTF==0.9.5
 greenlet==0.4.2
 itsdangerous==0.24
-Jinja2==3.1.3
+Jinja2==3.1.4
 MarkupSafe==0.23
 Werkzeug==3.0.3
 WTForms==2.3.0
