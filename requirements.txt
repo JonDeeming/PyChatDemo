@@ -1,5 +1,5 @@
 click==6.6
-eventlet==0.35.2
+eventlet==0.37.0
 Flask==2.3.2
 flask-socketio
 Flask-WTF==0.9.5
@@ -7,7 +7,7 @@ greenlet==0.4.2
 itsdangerous==0.24
 Jinja2==3.1.6
 MarkupSafe==0.23
-Werkzeug==3.0.3
+Werkzeug==3.0.6
 WTForms==2.3.0
 dnspython>=2.6.0rc1 # not directly required, pinned by Snyk to avoid a vulnerability
 zipp>=3.19.1 # not directly required, pinned by Snyk to avoid a vulnerability
