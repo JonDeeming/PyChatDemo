@@ -1,5 +1,5 @@
 click==6.6
-eventlet==0.37.0
+eventlet==0.40.3
 Flask==2.3.2
 flask-socketio
 Flask-WTF==0.9.5
